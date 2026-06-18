@@ -1,0 +1,6 @@
+[submodule "EAIoT-Frontend"]
+	path = EAIoT-Frontend
+	url = https://github.com/EAIoTIR/EAIoT-Frontend.git
+[submodule "EAIoT-Backend"]
+	path = EAIoT-Backend
+	url = https://github.com/EAIoTIR/EAIoT-Backend.git
